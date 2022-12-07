@@ -1,6 +1,8 @@
 ># 记得点star
 
+gitee地址 https://gitee.com/xiangchengkang/qimo_ncu
 
+github地址 https://github.com/2043766637/-_-_ncu
 
 ![sa](img/1.png)
 
